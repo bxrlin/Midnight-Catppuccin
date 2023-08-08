@@ -1,4 +1,5 @@
 # **Midnight-Catppuccin**
 `A Catppuccin Palette, rounded discord theme.`
 
-![image](https://github.com/bxrlin/Midnight-Catppuccin/assets/96011252/c12b279f-87b9-4464-8e77-c84725541f50)
+![pika-1691511727149-1x](https://github.com/bxrlin/Midnight-Catppuccin/assets/96011252/699cb6a5-2e0b-4523-ac86-cf617715367e)
+

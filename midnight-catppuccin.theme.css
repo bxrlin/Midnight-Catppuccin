@@ -7,16 +7,14 @@
  * @authorId 852568620012797972
 */
 
-/* Addons */
+@import url('https://bxrlin.github.io/Midnight-Catppuccin/midnight-catppuccin.css');
+
 
 /* User-Icons */
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/user-icons.css");
-
 /* Font */
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css");
-
 /* UI-Icons */
 @import url("https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/icons.css");
-
 /* Folder-Redesign */
 @import url("https://warrayquipsome.github.io/Chillax/Addons/FolderRedesign.css");
